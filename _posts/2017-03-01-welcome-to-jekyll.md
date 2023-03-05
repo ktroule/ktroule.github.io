@@ -17,5 +17,5 @@ class Presentation():
 
 Presentation(page_profile = 'ktroule')
 
-> Im Kevin Troule, a Computational biologist who loves: Statistical learning, Data analysis, 'Genomics, Health care. Nice to meet you!
+> Im Kevin Troule, a Computational biologist who loves: Statistical learning, Data analysis, Genomics, Health care. Nice to meet you!
 {% endhighlight %}
