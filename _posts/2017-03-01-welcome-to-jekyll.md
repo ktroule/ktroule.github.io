@@ -3,7 +3,7 @@ title: "Welcome to Jekyll"
 layout: post
 ---
 
-{% highlight ruby %}
+{% highlight python %}
 class Presentation():
   def __init__(self, page_profile):
     self.page_profile = page_profile
