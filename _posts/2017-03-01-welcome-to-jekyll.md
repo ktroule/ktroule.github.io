@@ -10,12 +10,12 @@ class Presentation():
 
   def presentation(self):
     if self.page_profile == 'ktroule':
-    name = 'Kevin Troulé'
+    name = 'Kevin Troule'
     role = 'Computational biologist'
     passion = ['Statistical learning', 'Data analysis', 'Genommics', 'Health care']
     return f'Im {name}, a {role} who loves; {','.join(list(passion))}. Nice to meet you!'
 
 Presentation(page_profile = 'ktroule')
 
-> Im Kevin Troulé, a Computational biologist who loves: Statistical learning, Data analysis, 'Genomics, Health care. Nice to meet you!
+> Im Kevin Troule, a Computational biologist who loves: Statistical learning, Data analysis, 'Genomics, Health care. Nice to meet you!
 {% endhighlight %}
